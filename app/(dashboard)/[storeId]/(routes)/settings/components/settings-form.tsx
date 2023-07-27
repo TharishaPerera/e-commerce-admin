@@ -127,4 +127,3 @@ export const SettingsForm: React.FC<SettingsFormProps> = ({ initialData }) => {
     </>
   );
 };
-// TODO: Billboards entity 3:36:00
