@@ -90,4 +90,3 @@ export const CellAction: React.FC<CellActionProps> = ({ data }) => {
     </>
   );
 };
-// TODO: continue from size entity 5:50:14
