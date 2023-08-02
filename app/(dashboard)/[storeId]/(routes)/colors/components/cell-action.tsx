@@ -90,4 +90,3 @@ export const CellAction: React.FC<CellActionProps> = ({ data }) => {
     </>
   );
 };
-// TODO: continue product entity 6:19:40
